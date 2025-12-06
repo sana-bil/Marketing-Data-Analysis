@@ -37,7 +37,7 @@ This project extracts and analyzes customer reviews to understand sentiment and 
 
 3. **CSV Output**
    - `fact_customer_reviews_with_sentiment.csv`  
-   - Ready for visualization in **Power BI** or other tools  
+   - Ready for visualization in **Power BI** 
 
 
 # Tech Stack
@@ -46,7 +46,4 @@ This project extracts and analyzes customer reviews to understand sentiment and 
 - **Data Export**: CSV  
 - **Visualization**: Power BI  
 
-
-
-## Repository Structure
 
